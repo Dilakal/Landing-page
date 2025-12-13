@@ -5,3 +5,19 @@ body{
     display: flex;
     flex-direction: column;
 }
+.header{
+    height: 30%;
+}
+.section1{
+    height: 20%;
+}
+.section2{
+   
+ height: 20%
+}
+.section3{
+     height: 20%
+}
+.footer{
+    height: 10%;
+}
