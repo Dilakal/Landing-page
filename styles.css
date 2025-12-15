@@ -20,6 +20,12 @@ body{
 
 
 }
+.upper-header{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 12px ;
+    padding-right:48px;
+}
 
 .section1{
     height: 20%;
