@@ -132,9 +132,7 @@ body{
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
-   /* display: flex;
-    justify-content: center;
-    border: 2px solid #3882F6;*/
+   
 }
 .text-2{
     display: flex;
@@ -142,8 +140,17 @@ body{
     font-weight: bold;
 }
 .section3{
-     height: 20%
+     height: 20%;
+     display: flex;
+     justify-content: center;
+     padding-left: 48px;
+     align-items: center;
 }
+/*.content-wrapper{
+    background-color: #3882F6;
+    width: 1000px;
+    height: 120px;
+}*/
 .footer{
     height: 10%;
 }
