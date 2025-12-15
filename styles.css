@@ -67,11 +67,12 @@ body{
 }
 
 
-/*.lower-header-right{
+.lower-header-right{
     display: flex;
     flex: 0 1 300px;
+    align-items: center;
     
-}*/
+}
 
 .section1{
     height: 20%;
