@@ -30,6 +30,17 @@ body{
     color:#F9FAF8;
     font-size: 24px;
 }
+.upper-header-right{
+    display: flex;
+    gap: 8px;
+    color:#E5E7EB;
+    font-size: 18px;
+}
+.lower-header{
+    display: flex;
+    justify-content: space-between;
+    padding-right:48px;
+}
 .section1{
     height: 20%;
 }
