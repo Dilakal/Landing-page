@@ -91,12 +91,12 @@ body{
      padding-top: 12px ;
 
 }
-/*.lower-section1{
+.lower-section1{
     display: flex;
     justify-content: center;
     gap: 48px;
 }
-.box-container{
+/*.box-container{
     display: flex;
     flex-direction: column;
     width: 180px;
