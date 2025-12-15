@@ -41,6 +41,12 @@ body{
     justify-content: space-between;
     padding-right:48px;
 }
+.lower-header-left{
+ display: flex;
+ flex-direction: column;
+ gap: 8px;
+ flex: 0 1 400px;
+}
 .section1{
     height: 20%;
 }
