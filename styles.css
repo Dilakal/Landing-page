@@ -10,7 +10,7 @@ body{
      
 }
 .header{
-    height: 30%;
+    height: 35%;
    display: flex;
    gap: 16px;
    flex-direction: column;
