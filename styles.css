@@ -26,7 +26,10 @@ body{
     padding-top: 12px ;
     padding-right:48px;
 }
-
+.upper-header-left{
+    color:#F9FAF8;
+    font-size: 24px;
+}
 .section1{
     height: 20%;
 }
