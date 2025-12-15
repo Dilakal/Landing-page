@@ -119,14 +119,14 @@ body{
  display: flex;
  justify-content: center;
 }
-/*.quote-container{
+.quote-container{
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 864px;
     gap: 16px;
 }
-.text-1{
+/*.text-1{
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
