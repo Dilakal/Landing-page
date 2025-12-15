@@ -45,8 +45,20 @@ body{
  display: flex;
  flex-direction: column;
  gap: 8px;
- flex: 0 1 400px;
+ flex: 0 1 600px;
 }
+/*.LHL1{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;}*/
+
+
+/*.lower-header-right{
+    display: flex;
+    flex: 0 1 300px;
+    
+}*/
+
 .section1{
     height: 20%;
 }
