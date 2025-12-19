@@ -155,12 +155,12 @@ body{
     justify-content: space-around;
     align-items: center;
 }
-/*.content-left{
+.content-left{
     display: flex;
     flex-direction: column;
     gap: 8px;
 }
-.content-bold{
+/*.content-bold{
     font-size: 24px;
     color:#F9FAF8;
     font-weight: bold;
